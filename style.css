@@ -1,0 +1,15 @@
+.bg-primary {
+    background-color: #11213A!important;
+}
+
+.h-100 {
+    height: 100vh!important;
+}
+
+.image-card {
+    height: 300px;
+    width: 300px;
+    vertical-align: middle;
+    object-fit: scale-down;
+    background-color: transparent !important;
+}
